@@ -1,0 +1,126 @@
+9
+
+dir
+5884
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/test/java/weka/classifiers
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2009-07-23T03:50:50.517103Z
+5795
+mhall
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+lazy
+dir
+
+trees
+dir
+
+bayes
+dir
+
+mi
+dir
+
+pmml
+dir
+
+meta
+dir
+
+functions
+dir
+
+AbstractClassifierTest.java
+file
+
+
+
+
+2009-08-16T23:09:47.000000Z
+2d491a5c2a1849a75bc1d33bb5c55256
+2008-09-30T02:09:10.000000Z
+4528
+mhall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32986
+
+data
+dir
+
+rules
+dir
+
+misc
+dir
+
+AllTests.java
+file
+
+
+
+
+2009-08-16T23:09:47.000000Z
+27c8a21e7e7656442e54571285c96b61
+2008-09-30T02:09:32.000000Z
+4529
+mhall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1618
+

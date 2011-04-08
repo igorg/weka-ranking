@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Utils
+END
+PriorityQueueElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Utils/PriorityQueueElement.java
+END
+UpdateQueueElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Utils/UpdateQueueElement.java
+END
+PriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Utils/PriorityQueue.java
+END
+UpdateQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Utils/UpdateQueue.java
+END
+EpsilonRange_ListElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Utils/EpsilonRange_ListElement.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/classifiers/misc
+END
+SerializedClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/misc/SerializedClassifierTest.java
+END
+FLRTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/misc/FLRTest.java
+END
+VFITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/misc/VFITest.java
+END
+HyperPipesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/misc/HyperPipesTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/core/tokenizers
+END
+WordTokenizerTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/core/tokenizers/WordTokenizerTest.ref
+END
+AlphabeticTokenizerTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/core/tokenizers/AlphabeticTokenizerTest.ref
+END
+NGramTokenizerTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/core/tokenizers/NGramTokenizerTest.ref
+END

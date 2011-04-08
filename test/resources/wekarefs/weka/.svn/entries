@@ -1,0 +1,46 @@
+9
+
+dir
+5884
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/test/resources/wekarefs/weka
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2009-07-23T03:51:59.956771Z
+5797
+mhall
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+associations
+dir
+
+classifiers
+dir
+
+core
+dir
+
+filters
+dir
+
+attributeSelection
+dir
+
+clusterers
+dir
+

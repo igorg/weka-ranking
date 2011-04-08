@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/5796/trunk/weka/src/test/resources/wekarefs/weka/filters
+END
+AllFilterTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/AllFilterTest.ref
+END
+MultiFilterTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/MultiFilterTest.ref
+END

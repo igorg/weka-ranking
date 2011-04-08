@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/DataObjects
+END
+DataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/DataObjects/DataObject.java
+END
+ManhattanDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/DataObjects/ManhattanDataObject.java
+END
+EuclidianDataObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/DataObjects/EuclidianDataObject.java
+END

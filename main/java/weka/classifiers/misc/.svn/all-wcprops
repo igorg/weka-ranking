@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weka/!svn/ver/5482/trunk/weka/src/main/java/weka/classifiers/misc
+END
+SerializedClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5482/trunk/weka/src/main/java/weka/classifiers/misc/SerializedClassifier.java
+END
+FLR.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5482/trunk/weka/src/main/java/weka/classifiers/misc/FLR.java
+END
+VFI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5482/trunk/weka/src/main/java/weka/classifiers/misc/VFI.java
+END
+HyperPipes.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5482/trunk/weka/src/main/java/weka/classifiers/misc/HyperPipes.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/attribute
+END
+AddClassificationTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/attribute/AddClassificationTest.ref
+END
+PLSFilterTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/attribute/PLSFilterTest.ref
+END
+DiscretizeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/attribute/DiscretizeTest.ref
+END
+NominalToBinaryTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/attribute/NominalToBinaryTest.ref
+END
+AttributeSelectionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/attribute/AttributeSelectionTest.ref
+END
+ClassOrderTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/attribute/ClassOrderTest.ref
+END

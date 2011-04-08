@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/classifiers/mi/supportVector
+END
+MIRBFKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/mi/supportVector/MIRBFKernel.java
+END
+MIPolyKernel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5154/trunk/weka/src/main/java/weka/classifiers/mi/supportVector/MIPolyKernel.java
+END

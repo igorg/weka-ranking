@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weka/!svn/ver/5784/trunk/weka/src/test/java/weka/core/converters
+END
+MatlabTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5419/trunk/weka/src/test/java/weka/core/converters/MatlabTest.java
+END
+SerializedInstancesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/converters/SerializedInstancesTest.java
+END
+XRFFTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/converters/XRFFTest.java
+END
+JSONTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5784/trunk/weka/src/test/java/weka/core/converters/JSONTest.java
+END
+AbstractConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/converters/AbstractConverterTest.java
+END
+AbstractFileConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5419/trunk/weka/src/test/java/weka/core/converters/AbstractFileConverterTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/converters/AllTests.java
+END
+C45Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/converters/C45Test.java
+END
+CSVTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5419/trunk/weka/src/test/java/weka/core/converters/CSVTest.java
+END
+LibSVMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5419/trunk/weka/src/test/java/weka/core/converters/LibSVMTest.java
+END
+SVMLightTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5410/trunk/weka/src/test/java/weka/core/converters/SVMLightTest.java
+END
+ArffTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/converters/ArffTest.java
+END

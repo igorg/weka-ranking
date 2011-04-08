@@ -1,0 +1,34 @@
+9
+
+dir
+5884
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/test/resources/wekarefs/weka/core
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2009-05-17T04:20:17.316077Z
+5349
+fracpete
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+neighboursearch
+dir
+
+tokenizers
+dir
+

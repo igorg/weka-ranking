@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc
+END
+VFITest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/VFITest.ref
+END
+MinMaxExtensionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/MinMaxExtensionTest.ref
+END
+OLMTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/OLMTest.ref
+END
+HyperPipesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/HyperPipesTest.ref
+END
+SerializedClassifierTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/SerializedClassifierTest.ref
+END
+OSDLTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/OSDLTest.ref
+END
+FLRTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/FLRTest.ref
+END
+VFITest.ref.20070530
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/VFITest.ref.20070530
+END
+VFITest.ref.20070620
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/misc/VFITest.ref.20070620
+END

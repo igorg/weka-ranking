@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/datagenerators
+END
+AbstractDataGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/datagenerators/AbstractDataGeneratorTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/datagenerators/AllTests.java
+END
+AbstractClusterDefinitionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/datagenerators/AbstractClusterDefinitionTest.java
+END

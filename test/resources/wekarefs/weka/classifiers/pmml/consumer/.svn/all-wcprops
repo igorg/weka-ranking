@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5661/trunk/weka/src/test/resources/wekarefs/weka/classifiers/pmml/consumer
+END
+RuleSetModelTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/5661/trunk/weka/src/test/resources/wekarefs/weka/classifiers/pmml/consumer/RuleSetModelTest.ref
+END
+GeneralRegressionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/pmml/consumer/GeneralRegressionTest.ref
+END
+NeuralNetworkTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/pmml/consumer/NeuralNetworkTest.ref
+END
+RegressionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/pmml/consumer/RegressionTest.ref
+END
+TreeModelTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/5108/trunk/weka/src/test/resources/wekarefs/weka/classifiers/pmml/consumer/TreeModelTest.ref
+END

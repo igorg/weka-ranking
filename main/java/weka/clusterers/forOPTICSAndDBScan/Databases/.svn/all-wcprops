@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Databases
+END
+SequentialDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Databases/SequentialDatabase.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/Databases/Database.java
+END

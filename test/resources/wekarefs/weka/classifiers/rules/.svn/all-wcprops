@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules
+END
+JRipTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/JRipTest.ref
+END
+DecisionTableTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/DecisionTableTest.ref
+END
+PARTTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/PARTTest.ref
+END
+DTNBTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/DTNBTest.ref
+END
+NNgeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/NNgeTest.ref
+END
+PrismTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/PrismTest.ref
+END
+M5RulesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/M5RulesTest.ref
+END
+ConjunctiveRuleTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/ConjunctiveRuleTest.ref
+END
+RidorTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/RidorTest.ref
+END
+ZeroRTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/ZeroRTest.ref
+END
+OneRTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/rules/OneRTest.ref
+END

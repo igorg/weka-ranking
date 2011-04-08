@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/classifiers/functions/pace
+END
+ChisqMixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/functions/pace/ChisqMixture.java
+END
+NormalMixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/functions/pace/NormalMixture.java
+END
+DiscreteFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/functions/pace/DiscreteFunction.java
+END
+MixtureDistribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/functions/pace/MixtureDistribution.java
+END
+PaceMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/functions/pace/PaceMatrix.java
+END

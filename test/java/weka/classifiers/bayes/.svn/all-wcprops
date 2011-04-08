@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/classifiers/bayes
+END
+WAODETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/WAODETest.java
+END
+NaiveBayesSimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/NaiveBayesSimpleTest.java
+END
+NaiveBayesMultinomialTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/NaiveBayesMultinomialTest.java
+END
+DMNBtextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/classifiers/bayes/DMNBtextTest.java
+END
+NaiveBayesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/NaiveBayesTest.java
+END
+HNBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/HNBTest.java
+END
+AODETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/AODETest.java
+END
+NaiveBayesMultinomialUpdateableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/NaiveBayesMultinomialUpdateableTest.java
+END
+BayesNetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/BayesNetTest.java
+END
+BayesianLogisticRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/BayesianLogisticRegressionTest.java
+END
+ComplementNaiveBayesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/ComplementNaiveBayesTest.java
+END
+AODEsrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/AODEsrTest.java
+END
+NaiveBayesUpdateableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/bayes/NaiveBayesUpdateableTest.java
+END

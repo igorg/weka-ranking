@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/classifiers/bayes/blr
+END
+LaplacePriorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4899/trunk/weka/src/main/java/weka/classifiers/bayes/blr/LaplacePriorImpl.java
+END
+GaussianPriorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/blr/GaussianPriorImpl.java
+END
+Prior.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/blr/Prior.java
+END

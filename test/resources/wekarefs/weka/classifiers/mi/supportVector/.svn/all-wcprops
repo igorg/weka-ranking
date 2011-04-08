@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/supportVector
+END
+MIPolyKernelTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/supportVector/MIPolyKernelTest.ref
+END
+MIRBFKernelTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/classifiers/mi/supportVector/MIRBFKernelTest.ref
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/5861/trunk/weka/src/main/java/weka/classifiers/meta/generators
+END
+RandomizableRangedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/RandomizableRangedGenerator.java
+END
+Ranged.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/Ranged.java
+END
+InstanceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/InstanceHandler.java
+END
+NominalGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/NominalGenerator.java
+END
+EMGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/EMGenerator.java
+END
+MixedGaussianGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/MixedGaussianGenerator.java
+END
+DiscreteGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/DiscreteGenerator.java
+END
+DiscreteUniformGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/DiscreteUniformGenerator.java
+END
+RandomizableDistributionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/RandomizableDistributionGenerator.java
+END
+RandomizableGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/RandomizableGenerator.java
+END
+Mean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/Mean.java
+END
+UniformDataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/5861/trunk/weka/src/main/java/weka/classifiers/meta/generators/UniformDataGenerator.java
+END
+GaussianGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/GaussianGenerator.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5861/trunk/weka/src/main/java/weka/classifiers/meta/generators/Generator.java
+END
+NominalAttributeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/NominalAttributeGenerator.java
+END
+NumericAttributeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/5793/trunk/weka/src/main/java/weka/classifiers/meta/generators/NumericAttributeGenerator.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/classifiers/functions/supportVector
+END
+PukTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/PukTest.java
+END
+AbstractKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java
+END
+PolyKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/PolyKernelTest.java
+END
+StringKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/StringKernelTest.java
+END
+NormalizedPolyKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/NormalizedPolyKernelTest.java
+END
+RBFKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/RBFKernelTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/AllTests.java
+END
+PrecomputedKernelMatrixKernelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/functions/supportVector/PrecomputedKernelMatrixKernelTest.java
+END

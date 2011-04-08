@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/classifiers/meta/nestedDichotomies
+END
+ClassBalancedNDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/nestedDichotomies/ClassBalancedNDTest.java
+END
+NDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/nestedDichotomies/NDTest.java
+END
+DataNearBalancedNDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/nestedDichotomies/DataNearBalancedNDTest.java
+END

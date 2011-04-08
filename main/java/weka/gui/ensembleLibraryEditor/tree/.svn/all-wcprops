@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree
+END
+GenericObjectNodeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/GenericObjectNodeEditor.java
+END
+CheckBoxNodeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/CheckBoxNodeEditor.java
+END
+InvalidInputException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/InvalidInputException.java
+END
+NumberNodeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/NumberNodeEditor.java
+END
+GenericObjectNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/GenericObjectNode.java
+END
+DefaultNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/DefaultNode.java
+END
+NumberClassNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/NumberClassNotFoundException.java
+END
+PropertyNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/PropertyNode.java
+END
+CheckBoxNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/CheckBoxNode.java
+END
+ModelTreeNodeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/ModelTreeNodeEditor.java
+END
+ModelTreeNodeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/ModelTreeNodeRenderer.java
+END
+NumberNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/tree/NumberNode.java
+END

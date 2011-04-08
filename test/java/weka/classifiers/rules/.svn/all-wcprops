@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/classifiers/rules
+END
+ConjunctiveRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/ConjunctiveRuleTest.java
+END
+RidorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/RidorTest.java
+END
+ZeroRTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/ZeroRTest.java
+END
+OneRTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/OneRTest.java
+END
+JRipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/JRipTest.java
+END
+DecisionTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/DecisionTableTest.java
+END
+PARTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/PARTTest.java
+END
+DTNBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/classifiers/rules/DTNBTest.java
+END
+NNgeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/NNgeTest.java
+END
+PrismTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/PrismTest.java
+END
+M5RulesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/rules/M5RulesTest.java
+END

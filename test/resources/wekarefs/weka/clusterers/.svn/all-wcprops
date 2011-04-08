@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/clusterers
+END
+MakeDensityBasedClustererTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/MakeDensityBasedClustererTest.ref
+END
+FilteredClustererTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/FilteredClustererTest.ref
+END
+FarthestFirstTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/FarthestFirstTest.ref
+END
+SimpleKMeansTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/SimpleKMeansTest.ref
+END
+DBScanTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/DBScanTest.ref
+END
+XMeansTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/XMeansTest.ref
+END
+sIBTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/sIBTest.ref
+END
+CobwebTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/CobwebTest.ref
+END
+EMTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/EMTest.ref
+END
+OPTICSTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/OPTICSTest.ref
+END
+CLOPETest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/clusterers/CLOPETest.ref
+END

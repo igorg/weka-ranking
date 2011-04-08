@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/instance
+END
+StratifiedRemoveFoldsTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/instance/StratifiedRemoveFoldsTest.ref
+END
+SMOTETest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/5131/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/instance/SMOTETest.ref
+END
+ResampleTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/instance/ResampleTest.ref
+END
+SpreadSubsampleTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/supervised/instance/SpreadSubsampleTest.ref
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/5660/trunk/weka/src/test/java/weka/classifiers/pmml/data
+END
+heart-c.arff
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/heart-c.arff
+END
+HEART_TREE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/5109/trunk/weka/src/test/java/weka/classifiers/pmml/data/HEART_TREE.xml
+END
+heart-c2.arff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5109/trunk/weka/src/test/java/weka/classifiers/pmml/data/heart-c2.arff
+END
+polynomial_regression_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/polynomial_regression_model.xml
+END
+iris.arff
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/iris.arff
+END
+IRIS_TREE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/5109/trunk/weka/src/test/java/weka/classifiers/pmml/data/IRIS_TREE.xml
+END
+HEART_RULESET.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5660/trunk/weka/src/test/java/weka/classifiers/pmml/data/HEART_RULESET.xml
+END
+Elnino_small.arff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/Elnino_small.arff
+END
+HEART_NOMREG.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/HEART_NOMREG.xml
+END
+linear_regression_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/linear_regression_model.xml
+END
+HEART_RBF.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/HEART_RBF.xml
+END
+ELNINO_REGRESSION_SIMPLE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/ELNINO_REGRESSION_SIMPLE.xml
+END
+IRIS_MLP.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/IRIS_MLP.xml
+END
+ElNino_NN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/pmml/data/ElNino_NN.xml
+END

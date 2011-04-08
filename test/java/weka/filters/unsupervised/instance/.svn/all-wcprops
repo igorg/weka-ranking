@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/filters/unsupervised/instance
+END
+NormalizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/NormalizeTest.java
+END
+SubsetByExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/SubsetByExpressionTest.java
+END
+ReservoirSampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/filters/unsupervised/instance/ReservoirSampleTest.java
+END
+RemoveFoldsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/RemoveFoldsTest.java
+END
+RemoveFrequentValuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/RemoveFrequentValuesTest.java
+END
+RandomizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/RandomizeTest.java
+END
+ResampleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/ResampleTest.java
+END
+NonSparseToSparseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/NonSparseToSparseTest.java
+END
+RemoveWithValuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/RemoveWithValuesTest.java
+END
+SparseToNonSparseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/SparseToNonSparseTest.java
+END
+RemoveRangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/RemoveRangeTest.java
+END
+RemovePercentageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/RemovePercentageTest.java
+END
+RemoveMisclassifiedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/unsupervised/instance/RemoveMisclassifiedTest.java
+END

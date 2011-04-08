@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weka/!svn/ver/5726/trunk/weka/src/main/java/weka/classifiers/bayes
+END
+WAODE.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/WAODE.java
+END
+NaiveBayesSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/NaiveBayesSimple.java
+END
+NaiveBayesMultinomial.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/NaiveBayesMultinomial.java
+END
+DMNBtext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/DMNBtext.java
+END
+NaiveBayes.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/NaiveBayes.java
+END
+HNB.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/HNB.java
+END
+AODE.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/AODE.java
+END
+NaiveBayesMultinomialUpdateable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/NaiveBayesMultinomialUpdateable.java
+END
+BayesNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5726/trunk/weka/src/main/java/weka/classifiers/bayes/BayesNet.java
+END
+BayesianLogisticRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/BayesianLogisticRegression.java
+END
+ComplementNaiveBayes.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/ComplementNaiveBayes.java
+END
+AODEsr.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5448/trunk/weka/src/main/java/weka/classifiers/bayes/AODEsr.java
+END
+NaiveBayesUpdateable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/bayes/NaiveBayesUpdateable.java
+END

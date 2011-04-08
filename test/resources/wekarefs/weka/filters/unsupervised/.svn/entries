@@ -1,0 +1,34 @@
+9
+
+dir
+5884
+https://svn.scms.waikato.ac.nz/svn/weka/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised
+https://svn.scms.waikato.ac.nz/svn/weka
+
+
+
+2009-07-23T03:51:23.028203Z
+5796
+mhall
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e0a1b77d-ad91-4216-81b1-defd5f83fa92
+
+attribute
+dir
+
+instance
+dir
+

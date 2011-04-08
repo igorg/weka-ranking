@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/core/neighboursearch
+END
+BallTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/neighboursearch/BallTreeTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/neighboursearch/AllTests.java
+END
+anneal.arff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/neighboursearch/anneal.arff
+END
+LinearNNSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/neighboursearch/LinearNNSearchTest.java
+END
+AbstractNearestNeighbourSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/neighboursearch/AbstractNearestNeighbourSearchTest.java
+END
+CoverTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/neighboursearch/CoverTreeTest.java
+END
+KDTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/neighboursearch/KDTreeTest.java
+END

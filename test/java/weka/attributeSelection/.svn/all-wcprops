@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weka/!svn/ver/5839/trunk/weka/src/test/java/weka/attributeSelection
+END
+OneRAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/OneRAttributeEvalTest.java
+END
+ConsistencySubsetEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/ConsistencySubsetEvalTest.java
+END
+RaceSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/RaceSearchTest.java
+END
+SVMAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/SVMAttributeEvalTest.java
+END
+ScatterSearchV1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/attributeSelection/ScatterSearchV1Test.java
+END
+GreedyStepwiseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/GreedyStepwiseTest.java
+END
+GeneticSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/GeneticSearchTest.java
+END
+LinearForwardSelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/LinearForwardSelectionTest.java
+END
+BestFirstTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/BestFirstTest.java
+END
+SymmetricalUncertAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/SymmetricalUncertAttributeEvalTest.java
+END
+SignificanceAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/attributeSelection/SignificanceAttributeEvalTest.java
+END
+LatentSemanticAnalysisTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/LatentSemanticAnalysisTest.java
+END
+ClassifierAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5839/trunk/weka/src/test/java/weka/attributeSelection/ClassifierAttributeEvalTest.java
+END
+RankSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/RankSearchTest.java
+END
+TabuSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/attributeSelection/TabuSearchTest.java
+END
+ChiSquaredAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/ChiSquaredAttributeEvalTest.java
+END
+PrincipalComponentsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/PrincipalComponentsTest.java
+END
+AbstractSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/AbstractSearchTest.java
+END
+FilteredSubsetEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/attributeSelection/FilteredSubsetEvalTest.java
+END
+AbstractAttributeSelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/AbstractAttributeSelectionTest.java
+END
+CostSensitiveSubsetEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/attributeSelection/CostSensitiveSubsetEvalTest.java
+END
+RandomSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/RandomSearchTest.java
+END
+ReliefFAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/ReliefFAttributeEvalTest.java
+END
+CfsSubsetEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/CfsSubsetEvalTest.java
+END
+GainRatioAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/GainRatioAttributeEvalTest.java
+END
+ExhaustiveSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/ExhaustiveSearchTest.java
+END
+WrapperSubsetEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/WrapperSubsetEvalTest.java
+END
+SymmetricalUncertAttributeSetEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/SymmetricalUncertAttributeSetEvalTest.java
+END
+ClassifierSubsetEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/ClassifierSubsetEvalTest.java
+END
+RankerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/RankerTest.java
+END
+AbstractEvaluatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/AbstractEvaluatorTest.java
+END
+InfoGainAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/InfoGainAttributeEvalTest.java
+END
+FCBFSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/FCBFSearchTest.java
+END
+FilteredAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/attributeSelection/FilteredAttributeEvalTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/AllTests.java
+END
+SubsetSizeForwardSelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/attributeSelection/SubsetSizeForwardSelectionTest.java
+END
+CostSensitiveAttributeEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/attributeSelection/CostSensitiveAttributeEvalTest.java
+END

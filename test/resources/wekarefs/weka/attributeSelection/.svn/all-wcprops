@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection
+END
+LinearForwardSelectionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/LinearForwardSelectionTest.ref
+END
+BestFirstTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/BestFirstTest.ref
+END
+RandomSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/RandomSearchTest.ref
+END
+ReliefFAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/ReliefFAttributeEvalTest.ref
+END
+WrapperSubsetEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/5319/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/WrapperSubsetEvalTest.ref
+END
+LatentSemanticAnalysisTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/LatentSemanticAnalysisTest.ref
+END
+TabuSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4980/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/TabuSearchTest.ref
+END
+RankSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/RankSearchTest.ref
+END
+SymmetricalUncertAttributeSetEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/SymmetricalUncertAttributeSetEvalTest.ref
+END
+RankerTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/RankerTest.ref
+END
+ClassifierSubsetEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/ClassifierSubsetEvalTest.ref
+END
+FCBFSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/FCBFSearchTest.ref
+END
+InfoGainAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/InfoGainAttributeEvalTest.ref
+END
+PrincipalComponentsTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/PrincipalComponentsTest.ref
+END
+FilteredAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/FilteredAttributeEvalTest.ref
+END
+CostSensitiveAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/CostSensitiveAttributeEvalTest.ref
+END
+RaceSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/RaceSearchTest.ref
+END
+ScatterSearchV1Test.ref
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/4833/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/ScatterSearchV1Test.ref
+END
+GeneticSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/GeneticSearchTest.ref
+END
+SymmetricalUncertAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/SymmetricalUncertAttributeEvalTest.ref
+END
+GainRatioAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/GainRatioAttributeEvalTest.ref
+END
+CfsSubsetEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/CfsSubsetEvalTest.ref
+END
+ExhaustiveSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/ExhaustiveSearchTest.ref
+END
+SignificanceAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/5069/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/SignificanceAttributeEvalTest.ref
+END
+ChiSquaredAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/ChiSquaredAttributeEvalTest.ref
+END
+SubsetSizeForwardSelectionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/SubsetSizeForwardSelectionTest.ref
+END
+FilteredSubsetEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/FilteredSubsetEvalTest.ref
+END
+ConsistencySubsetEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/ConsistencySubsetEvalTest.ref
+END
+OneRAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/OneRAttributeEvalTest.ref
+END
+CostSensitiveSubsetEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/CostSensitiveSubsetEvalTest.ref
+END
+SVMAttributeEvalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/SVMAttributeEvalTest.ref
+END
+GreedyStepwiseTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/attributeSelection/GreedyStepwiseTest.ref
+END

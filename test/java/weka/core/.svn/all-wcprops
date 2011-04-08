@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/weka/!svn/ver/5784/trunk/weka/src/test/java/weka/core
+END
+UtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/UtilsTest.java
+END
+TrieTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/TrieTest.java
+END
+AlgVectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/AlgVectorTest.java
+END
+MathematicalExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/core/MathematicalExpressionTest.java
+END
+OptionHandlersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/OptionHandlersTest.java
+END
+SingleIndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/SingleIndexTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/AllTests.java
+END
+RangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/RangeTest.java
+END

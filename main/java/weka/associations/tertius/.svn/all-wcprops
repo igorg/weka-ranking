@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/associations/tertius
+END
+IndividualInstances.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/IndividualInstances.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/Predicate.java
+END
+Head.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/Head.java
+END
+IndividualLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/IndividualLiteral.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/Rule.java
+END
+LiteralSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/LiteralSet.java
+END
+Literal.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/Literal.java
+END
+SimpleLinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/SimpleLinkedList.java
+END
+AttributeValueLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/AttributeValueLiteral.java
+END
+Body.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/Body.java
+END
+IndividualInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/associations/tertius/IndividualInstance.java
+END

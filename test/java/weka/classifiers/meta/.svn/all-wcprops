@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weka/!svn/ver/5795/trunk/weka/src/test/java/weka/classifiers/meta
+END
+FilteredClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/FilteredClassifierTest.java
+END
+StackingCTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/StackingCTest.java
+END
+RandomSubSpaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/RandomSubSpaceTest.java
+END
+RacedIncrementalLogitBoostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/RacedIncrementalLogitBoostTest.java
+END
+ENDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/ENDTest.java
+END
+CostSensitiveClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/CostSensitiveClassifierTest.java
+END
+GradingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/GradingTest.java
+END
+GridSearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/GridSearchTest.java
+END
+EnsembleSelectionTest.model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/EnsembleSelectionTest.model.xml
+END
+MultiSchemeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/MultiSchemeTest.java
+END
+MetaCostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/MetaCostTest.java
+END
+CVParameterSelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/CVParameterSelectionTest.java
+END
+AttributeSelectedClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/AttributeSelectedClassifierTest.java
+END
+OrdinalClassClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/OrdinalClassClassifierTest.java
+END
+AdaBoostM1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/AdaBoostM1Test.java
+END
+AdditiveRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/AdditiveRegressionTest.java
+END
+ClassificationViaRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/ClassificationViaRegressionTest.java
+END
+BaggingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/BaggingTest.java
+END
+EnsembleSelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/EnsembleSelectionTest.java
+END
+DaggingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/DaggingTest.java
+END
+StackingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/StackingTest.java
+END
+MultiBoostABTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/MultiBoostABTest.java
+END
+OneClassClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5795/trunk/weka/src/test/java/weka/classifiers/meta/OneClassClassifierTest.java
+END
+VoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/VoteTest.java
+END
+ThresholdSelectorDummyClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/ThresholdSelectorDummyClassifier.java
+END
+RotationForestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/classifiers/meta/RotationForestTest.java
+END
+LogitBoostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/LogitBoostTest.java
+END
+MultiClassClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/MultiClassClassifierTest.java
+END
+DecorateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/DecorateTest.java
+END
+RandomCommitteeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/RandomCommitteeTest.java
+END
+RegressionByDiscretizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/RegressionByDiscretizationTest.java
+END
+ClassificationViaClusteringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/ClassificationViaClusteringTest.java
+END
+ThresholdSelectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/meta/ThresholdSelectorTest.java
+END

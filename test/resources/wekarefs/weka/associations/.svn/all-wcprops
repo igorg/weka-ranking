@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/associations
+END
+PredictiveAprioriTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/associations/PredictiveAprioriTest.ref
+END
+AprioriTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/associations/AprioriTest.ref
+END
+GeneralizedSequentialPatternsTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/associations/GeneralizedSequentialPatternsTest.ref
+END
+FilteredAssociatorTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/associations/FilteredAssociatorTest.ref
+END
+TertiusTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/associations/TertiusTest.ref
+END
+HotSpotTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/associations/HotSpotTest.ref
+END

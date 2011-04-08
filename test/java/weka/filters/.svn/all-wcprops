@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/weka/!svn/ver/5853/trunk/weka/src/test/java/weka/filters
+END
+MultiFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/MultiFilterTest.java
+END
+AbstractTimeSeriesFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/AbstractTimeSeriesFilterTest.java
+END
+AbstractFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/AbstractFilterTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/AllTests.java
+END
+AllFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/AllFilterTest.java
+END

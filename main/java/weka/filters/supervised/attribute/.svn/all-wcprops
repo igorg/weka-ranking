@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5491/trunk/weka/src/main/java/weka/filters/supervised/attribute
+END
+ClassOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5491/trunk/weka/src/main/java/weka/filters/supervised/attribute/ClassOrder.java
+END
+AddClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/5491/trunk/weka/src/main/java/weka/filters/supervised/attribute/AddClassification.java
+END
+PLSFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5491/trunk/weka/src/main/java/weka/filters/supervised/attribute/PLSFilter.java
+END
+Discretize.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5491/trunk/weka/src/main/java/weka/filters/supervised/attribute/Discretize.java
+END
+NominalToBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5491/trunk/weka/src/main/java/weka/filters/supervised/attribute/NominalToBinary.java
+END
+AttributeSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/5491/trunk/weka/src/main/java/weka/filters/supervised/attribute/AttributeSelection.java
+END

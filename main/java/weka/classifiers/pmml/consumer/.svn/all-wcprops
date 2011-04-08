@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5658/trunk/weka/src/main/java/weka/classifiers/pmml/consumer
+END
+NeuralNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/classifiers/pmml/consumer/NeuralNetwork.java
+END
+Regression.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/classifiers/pmml/consumer/Regression.java
+END
+TreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/classifiers/pmml/consumer/TreeModel.java
+END
+RuleSetModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5658/trunk/weka/src/main/java/weka/classifiers/pmml/consumer/RuleSetModel.java
+END
+PMMLClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/classifiers/pmml/consumer/PMMLClassifier.java
+END
+GeneralRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/classifiers/pmml/consumer/GeneralRegression.java
+END

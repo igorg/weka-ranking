@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/classifiers/mi
+END
+MIEMDDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MIEMDDTest.java
+END
+SimpleMITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/SimpleMITest.java
+END
+CitationKNNTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/CitationKNNTest.java
+END
+MILRTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MILRTest.java
+END
+TLDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/TLDTest.java
+END
+MDDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MDDTest.java
+END
+MISMOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MISMOTest.java
+END
+MINNDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MINNDTest.java
+END
+MIOptimalBallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MIOptimalBallTest.java
+END
+MIWrapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MIWrapperTest.java
+END
+MISVMTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MISVMTest.java
+END
+MIBoostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MIBoostTest.java
+END
+MIDDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/MIDDTest.java
+END
+TLDSimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/mi/TLDSimpleTest.java
+END

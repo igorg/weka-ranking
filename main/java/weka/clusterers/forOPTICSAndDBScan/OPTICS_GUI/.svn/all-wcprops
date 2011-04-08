@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/OPTICS_GUI
+END
+SERFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/OPTICS_GUI/SERFileFilter.java
+END
+SERObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/OPTICS_GUI/SERObject.java
+END
+GraphPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/OPTICS_GUI/GraphPanel.java
+END
+ResultVectorTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/OPTICS_GUI/ResultVectorTableModel.java
+END
+OPTICS_Visualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4791/trunk/weka/src/main/java/weka/clusterers/forOPTICSAndDBScan/OPTICS_GUI/OPTICS_Visualizer.java
+END

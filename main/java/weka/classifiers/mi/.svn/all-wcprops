@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi
+END
+MIEMDD.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/MIEMDD.java
+END
+SimpleMI.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/mi/SimpleMI.java
+END
+CitationKNN.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/CitationKNN.java
+END
+MILR.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/MILR.java
+END
+TLD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/TLD.java
+END
+MDD.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/MDD.java
+END
+MISMO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/mi/MISMO.java
+END
+MINND.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/MINND.java
+END
+MIOptimalBall.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/MIOptimalBall.java
+END
+MIWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/mi/MIWrapper.java
+END
+MISVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/MISVM.java
+END
+MIBoost.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/classifiers/mi/MIBoost.java
+END
+MIDD.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/MIDD.java
+END
+TLDSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/5481/trunk/weka/src/main/java/weka/classifiers/mi/TLDSimple.java
+END

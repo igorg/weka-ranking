@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/resources/wekarefs/weka/core/neighboursearch
+END
+BallTreeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/core/neighboursearch/BallTreeTest.ref
+END
+LinearNNSearchTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/core/neighboursearch/LinearNNSearchTest.ref
+END
+CoverTreeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/core/neighboursearch/CoverTreeTest.ref
+END
+KDTreeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/core/neighboursearch/KDTreeTest.ref
+END

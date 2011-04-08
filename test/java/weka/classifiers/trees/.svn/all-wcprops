@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/classifiers/trees
+END
+RandomTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/RandomTreeTest.java
+END
+M5PTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/M5PTest.java
+END
+RandomForestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/RandomForestTest.java
+END
+SimpleCartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/SimpleCartTest.java
+END
+ADTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/ADTreeTest.java
+END
+J48Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/J48Test.java
+END
+REPTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/REPTreeTest.java
+END
+BFTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/BFTreeTest.java
+END
+FTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/FTTest.java
+END
+Id3Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/Id3Test.java
+END
+NBTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/NBTreeTest.java
+END
+LADTreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/5563/trunk/weka/src/test/java/weka/classifiers/trees/LADTreeTest.java
+END
+UserClassifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/UserClassifierTest.java
+END
+DecisionStumpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/DecisionStumpTest.java
+END
+J48graftTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/J48graftTest.java
+END
+LMTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/trees/LMTTest.java
+END

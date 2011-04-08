@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/classifiers/data
+END
+ClassifierTest.arff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/data/ClassifierTest.arff
+END
+test.matrix
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/data/test.matrix
+END
+ClassifierTest.cost
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/classifiers/data/ClassifierTest.cost
+END

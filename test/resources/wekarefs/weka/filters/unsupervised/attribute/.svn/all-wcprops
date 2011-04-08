@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5796/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute
+END
+MergeManyValuesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/5796/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/MergeManyValuesTest.ref
+END
+AddIDTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/AddIDTest.ref
+END
+DiscretizeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/DiscretizeTest.ref
+END
+PropositionalToMultiInstanceTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/PropositionalToMultiInstanceTest.ref
+END
+RandomSubsetTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/RandomSubsetTest.ref
+END
+WaveletTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/WaveletTest.ref
+END
+AddExpressionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/AddExpressionTest.ref
+END
+PKIDiscretizeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/PKIDiscretizeTest.ref
+END
+MakeIndicatorTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/MakeIndicatorTest.ref
+END
+CopyTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/CopyTest.ref
+END
+RandomProjectionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/RandomProjectionTest.ref
+END
+PrincipalComponentsTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/PrincipalComponentsTest.ref
+END
+NominalToStringTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/NominalToStringTest.ref
+END
+StringToNominalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/4715/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/StringToNominalTest.ref
+END
+TimeSeriesTranslateTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/TimeSeriesTranslateTest.ref
+END
+StringToWordVectorTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/StringToWordVectorTest.ref
+END
+AddTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/AddTest.ref
+END
+AddClusterTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/AddClusterTest.ref
+END
+NumericCleanerTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/NumericCleanerTest.ref
+END
+RemoveTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/RemoveTest.ref
+END
+ClusterMembershipTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/ClusterMembershipTest.ref
+END
+NumericTransformTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/NumericTransformTest.ref
+END
+ClassAssignerTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/ClassAssignerTest.ref
+END
+ReorderTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/ReorderTest.ref
+END
+InterquartileRangeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/InterquartileRangeTest.ref
+END
+MultiInstanceToPropositionalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/MultiInstanceToPropositionalTest.ref
+END
+NominalToBinaryTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/NominalToBinaryTest.ref
+END
+StandardizeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/StandardizeTest.ref
+END
+AddValuesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/AddValuesTest.ref
+END
+MathExpressionTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/5119/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/MathExpressionTest.ref
+END
+MergeTwoValuesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/MergeTwoValuesTest.ref
+END
+NumericToBinaryTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/NumericToBinaryTest.ref
+END
+SortLabelsTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/5601/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/SortLabelsTest.ref
+END
+ObfuscateTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/ObfuscateTest.ref
+END
+EMImputationTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/5375/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/EMImputationTest.ref
+END
+CenterTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/CenterTest.ref
+END
+NumericToNominalTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/NumericToNominalTest.ref
+END
+FirstOrderTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/FirstOrderTest.ref
+END
+TimeSeriesDeltaTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/TimeSeriesDeltaTest.ref
+END
+RELAGGSTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/RELAGGSTest.ref
+END
+ReplaceMissingValuesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/ReplaceMissingValuesTest.ref
+END
+AddNoiseTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/AddNoiseTest.ref
+END
+KernelFilterTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/KernelFilterTest.ref
+END
+SwapValuesTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/SwapValuesTest.ref
+END
+ChangeDateFormatTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/ChangeDateFormatTest.ref
+END
+RemoveTypeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/RemoveTypeTest.ref
+END
+NormalizeTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/NormalizeTest.ref
+END
+RemoveUselessTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/RemoveUselessTest.ref
+END
+PartitionedMultiFilterTest.ref
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/resources/wekarefs/weka/filters/unsupervised/attribute/PartitionedMultiFilterTest.ref
+END

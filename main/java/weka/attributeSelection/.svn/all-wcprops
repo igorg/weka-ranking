@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/weka/!svn/ver/5839/trunk/weka/src/main/java/weka/attributeSelection
+END
+OneRAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/OneRAttributeEval.java
+END
+ConsistencySubsetEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/ConsistencySubsetEval.java
+END
+RaceSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/RaceSearch.java
+END
+SVMAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/SVMAttributeEval.java
+END
+ScatterSearchV1.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4977/trunk/weka/src/main/java/weka/attributeSelection/ScatterSearchV1.java
+END
+GreedyStepwise.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/GreedyStepwise.java
+END
+UnsupervisedAttributeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/UnsupervisedAttributeEvaluator.java
+END
+GeneticSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5286/trunk/weka/src/main/java/weka/attributeSelection/GeneticSearch.java
+END
+LinearForwardSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5602/trunk/weka/src/main/java/weka/attributeSelection/LinearForwardSelection.java
+END
+BestFirst.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/BestFirst.java
+END
+SymmetricalUncertAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/SymmetricalUncertAttributeEval.java
+END
+CheckAttributeSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4783/trunk/weka/src/main/java/weka/attributeSelection/CheckAttributeSelection.java
+END
+AttributeSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/AttributeSelection.java
+END
+RankedOutputSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/RankedOutputSearch.java
+END
+ErrorBasedMeritEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/ErrorBasedMeritEvaluator.java
+END
+SignificanceAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/SignificanceAttributeEval.java
+END
+LatentSemanticAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5729/trunk/weka/src/main/java/weka/attributeSelection/LatentSemanticAnalysis.java
+END
+ClassifierAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/5839/trunk/weka/src/main/java/weka/attributeSelection/ClassifierAttributeEval.java
+END
+TabuSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4976/trunk/weka/src/main/java/weka/attributeSelection/TabuSearch.java
+END
+RankSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/RankSearch.java
+END
+ChiSquaredAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/ChiSquaredAttributeEval.java
+END
+AttributeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/AttributeTransformer.java
+END
+AttributeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/AttributeEvaluator.java
+END
+HoldOutSubsetEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/HoldOutSubsetEvaluator.java
+END
+PrincipalComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/PrincipalComponents.java
+END
+SubsetEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/SubsetEvaluator.java
+END
+ASEvaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/5446/trunk/weka/src/main/java/weka/attributeSelection/ASEvaluation.java
+END
+FilteredSubsetEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/attributeSelection/FilteredSubsetEval.java
+END
+CostSensitiveSubsetEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/attributeSelection/CostSensitiveSubsetEval.java
+END
+AttributeSetEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/AttributeSetEvaluator.java
+END
+UnsupervisedSubsetEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/UnsupervisedSubsetEvaluator.java
+END
+RandomSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/RandomSearch.java
+END
+StartSetHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/StartSetHandler.java
+END
+LFSMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4899/trunk/weka/src/main/java/weka/attributeSelection/LFSMethods.java
+END
+ReliefFAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/ReliefFAttributeEval.java
+END
+GainRatioAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/GainRatioAttributeEval.java
+END
+CfsSubsetEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/CfsSubsetEval.java
+END
+ExhaustiveSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/ExhaustiveSearch.java
+END
+CostSensitiveASEvaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/attributeSelection/CostSensitiveASEvaluation.java
+END
+WrapperSubsetEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/weka/!svn/ver/5584/trunk/weka/src/main/java/weka/attributeSelection/WrapperSubsetEval.java
+END
+ClassifierSubsetEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/ClassifierSubsetEval.java
+END
+Ranker.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/Ranker.java
+END
+SymmetricalUncertAttributeSetEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/SymmetricalUncertAttributeSetEval.java
+END
+InfoGainAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/5447/trunk/weka/src/main/java/weka/attributeSelection/InfoGainAttributeEval.java
+END
+FCBFSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/FCBFSearch.java
+END
+ASSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/attributeSelection/ASSearch.java
+END
+FilteredAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/attributeSelection/FilteredAttributeEval.java
+END
+SubsetSizeForwardSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5604/trunk/weka/src/main/java/weka/attributeSelection/SubsetSizeForwardSelection.java
+END
+CostSensitiveAttributeEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/weka/!svn/ver/5563/trunk/weka/src/main/java/weka/attributeSelection/CostSensitiveAttributeEval.java
+END

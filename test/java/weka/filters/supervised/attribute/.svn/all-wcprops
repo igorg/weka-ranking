@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/filters/supervised/attribute
+END
+ClassOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/supervised/attribute/ClassOrderTest.java
+END
+AddClassificationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/supervised/attribute/AddClassificationTest.java
+END
+PLSFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/supervised/attribute/PLSFilterTest.java
+END
+DiscretizeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/supervised/attribute/DiscretizeTest.java
+END
+NominalToBinaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/supervised/attribute/NominalToBinaryTest.java
+END
+AttributeSelectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/filters/supervised/attribute/AttributeSelectionTest.java
+END

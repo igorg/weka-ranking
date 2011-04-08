@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/weka/!svn/ver/5349/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor
+END
+ListModelsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/ListModelsPanel.java
+END
+LibrarySerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/LibrarySerialization.java
+END
+LoadModelsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/LoadModelsPanel.java
+END
+DefaultModelsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/DefaultModelsPanel.java
+END
+AddModelsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/AddModelsPanel.java
+END
+ModelList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/weka/!svn/ver/4698/trunk/weka/src/main/java/weka/gui/ensembleLibraryEditor/ModelList.java
+END

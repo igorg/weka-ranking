@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/weka/!svn/ver/5349/trunk/weka/src/test/java/weka/core/tokenizers
+END
+NGramTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/tokenizers/NGramTokenizerTest.java
+END
+WordTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/tokenizers/WordTokenizerTest.java
+END
+AlphabeticTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/tokenizers/AlphabeticTokenizerTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/tokenizers/AllTests.java
+END
+AbstractTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/weka/!svn/ver/4698/trunk/weka/src/test/java/weka/core/tokenizers/AbstractTokenizerTest.java
+END

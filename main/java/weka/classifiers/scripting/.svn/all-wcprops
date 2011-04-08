@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/weka/!svn/ver/5484/trunk/weka/src/main/java/weka/classifiers/scripting
+END
+JythonClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5484/trunk/weka/src/main/java/weka/classifiers/scripting/JythonClassifier.java
+END
+GroovyClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/weka/!svn/ver/5484/trunk/weka/src/main/java/weka/classifiers/scripting/GroovyClassifier.java
+END
